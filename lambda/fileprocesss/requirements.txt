@@ -1,0 +1,12 @@
+boto3
+requests
+requests-aws4auth
+pypdf
+python-docx
+python-pptx
+pandas
+fpdf
+html2text
+openpyxl
+opensearch-py
+urllib3
